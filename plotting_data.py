@@ -1,21 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 15 17:52:34 2023
-
-@author: raopr
-"""
-# By submitting this assignment, I agree to the following:
-# "Aggies do not lie, cheat, or steal, or tolerate those who do."
-# "I have not given or received any unauthorized aid on this assignment."
-# Name: Pranav Rao
-# Section: 564
-# Assignment: 12.14 Lab
-# Date: 11/15/2023
-#
-#
-# YOUR CODE HERE
-#
-
 #imports
 import numpy as np
 import matplotlib.pyplot as plt

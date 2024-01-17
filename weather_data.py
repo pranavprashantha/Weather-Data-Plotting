@@ -1,22 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov  8 23:02:31 2023
-
-@author: raopr
-"""
-
-# By submitting this assignment, I agree to the following:
-# "Aggies do not lie, cheat, or steal, or tolerate those who do."
-# "I have not given or received any unauthorized aid on this assignment."
-# Name: Pranav Rao
-# Section: 564
-# Assignment: 11.13 Lab
-# Date: 11/08/2023
-#
-#
-# YOUR CODE HERE
-#
-
 #open file
 file = open("WeatherDataCLL.csv", "r")
 #min and max
